@@ -1,0 +1,10 @@
+import javax.swing.JOptionPane;
+
+public class ExtraCredit
+{
+	public static void main(String[] args)
+  {
+    int stuff;
+    String things;
+  }
+}
